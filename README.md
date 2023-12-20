@@ -1,2 +1,2 @@
 # to-do-list-app
- Simple tp do list
+ Simple to do list
